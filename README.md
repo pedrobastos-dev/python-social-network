@@ -58,15 +58,15 @@ python main.py
 
 ### Menu principal
 
-![Menu](assets/menu.png)
+![Menu](assets/Menu.png)
 
 ### Cadastro de usuários
 
-![Cadastro](assets/cadastro.png)
+![Cadastro](assets/cadastro_usuario.png)
 
 ### Listagem de perfis
 
-![Perfis](assets/perfis.png)
+![Perfis](assets/listar_perfis.png)
 
 ## O que foi praticado
 
