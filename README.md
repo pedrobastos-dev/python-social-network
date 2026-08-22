@@ -32,3 +32,53 @@ python-social-network/
 ├── e_listar_amizades.py
 ├── f_listar_perfis.py
 └── g_sair.py
+```
+
+## Como executar
+
+1. Clone o repositório.
+
+```bash
+git clone https://github.com/SEU-USUARIO/python-social-network.git
+```
+
+2. Acesse a pasta do projeto.
+
+```bash
+cd python-social-network
+```
+
+3. Execute o programa.
+
+```bash
+python main.py
+```
+
+## Demonstração
+
+### Menu principal
+
+![Menu](assets/menu.png)
+
+### Cadastro de usuários
+
+![Cadastro](assets/cadastro.png)
+
+### Listagem de perfis
+
+![Perfis](assets/perfis.png)
+
+## O que foi praticado
+
+Durante o desenvolvimento foram aplicados conceitos como:
+
+- Organização modular em Python
+- Separação de responsabilidades entre arquivos
+- Manipulação de listas e dicionários
+- Validação de entradas
+- Relacionamentos bidirecionais entre usuários
+- Estruturação de um projeto executável em terminal
+
+---
+
+Projeto acadêmico desenvolvido para prática de programação em Python.
