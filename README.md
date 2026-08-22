@@ -39,7 +39,7 @@ python-social-network/
 1. Clone o repositório.
 
 ```bash
-git clone https://github.com/SEU-USUARIO/python-social-network.git
+git clone https://github.com/pedrobastos-dev/python-social-network.git
 ```
 
 2. Acesse a pasta do projeto.
